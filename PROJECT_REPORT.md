@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-With the increase in online activity and security threats, strong password generation is a critical need for users. This project delivers a simple yet effective password generator written in Python. The code allows users to specify a custom password length (with a sensible lower bound for security), then creates a password that is difficult to guess or brute-force, leveraging a diverse set of characters.
+With the increase in online activity and security threats, strong password generation is a critical need for users. This project delivers a simple yet effective password generator written in Python. T[...] 
 
 ## 2. Objectives
 
@@ -114,11 +114,9 @@ Strong Password: 8W,oeICzj$!q1
 
 ## 10. Conclusion
 
-This password generator is a practical example of leveraging Python’s built-in capabilities for real-world security needs. It ensures passwords are of sufficient length and complexity while offering straightforward user interaction. The project can serve as a foundation for more sophisticated password management tools with further developments in functionality and security.
+This password generator is a practical example of leveraging Python’s built-in capabilities for real-world security needs. It ensures passwords are of sufficient length and complexity while off[...] 
 
 ---
 
 **Author:**  
-[Your Name]  
-**Project Source:**  
-https://github.com/uffayushh/VIT-BHOPAL-PROJECT
+Ayush Pandey
